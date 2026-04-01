@@ -1,0 +1,17 @@
+{
+  "name": "panel_tame",
+  "about": "panel_tame",
+  "version": "1.0",
+  "notes": "Стабильный",
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [
+        {
+          "path": "https://github.com/maxlxam/panel_tame/releases/download/1.0/panel_tame.ino.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
