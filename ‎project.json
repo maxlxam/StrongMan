@@ -1,14 +1,14 @@
 {
-  "name": "panel_tame",
-  "about": "panel_tame",
-  "version": "1.0",
+  "name": "StrongMan",
+  "about": "R2",
+  "version": "3.5",
   "notes": "Стабильный",
   "builds": [
     {
-      "chipFamily": "ESP8266",
+      "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "https://github.com/maxlxam/panel_tame/releases/download/1.0/panel_tame.ino.bin",
+          "path": "https://github.com/maxlxam/StrongMan/releases/download/st/strong_man_3.5.ino.bin",
           "offset": 0
         }
       ]
